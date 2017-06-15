@@ -17,7 +17,7 @@ inputs:
   name:
     string:
       constraints: { minLength: 1 }
-      description: name of provisioned function app
+      description: name of function app
   resourceGroup:
     string:
       constraints: { minLength: 1 }
